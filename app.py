@@ -1,6 +1,5 @@
 import streamlit as st
 import torch
-torchvision
 import torchvision
 import torchvision.transforms as transforms
 st.title("CNN CIFAR10 - Image Classifier")
